@@ -1,0 +1,60 @@
+absl-py==0.12.0
+astunparse==1.6.3
+cachetools==4.2.1
+certifi==2020.12.5
+chardet==4.0.0
+click==7.1.2
+cycler==0.10.0
+dataclasses==0.8
+dnspython==2.1.0
+email-validator==1.1.2
+fastapi==0.63.0
+flatbuffers==1.12
+gast==0.3.3
+google-auth==1.28.0
+google-auth-oauthlib==0.4.3
+google-pasta==0.2.0
+grpcio==1.32.0
+h11==0.12.0
+h5py==2.10.0
+idna==2.10
+importlib-metadata==3.7.3
+Keras-Preprocessing==1.1.2
+kiwisolver @ file:///tmp/build/80754af9/kiwisolver_1612282412546/work
+Markdown==3.3.4
+matplotlib @ file:///tmp/build/80754af9/matplotlib-suite_1613407855456/work
+mkl-fft==1.3.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+motor==2.3.1
+numpy==1.18.5
+oauthlib==3.1.0
+olefile==0.46
+opt-einsum==3.3.0
+Pillow @ file:///tmp/build/80754af9/pillow_1615224027575/work
+protobuf==3.15.6
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pydantic==1.8.1
+pymongo==3.11.3
+pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
+python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
+python-dotenv==0.16.0
+python-multipart==0.0.5
+requests==2.25.1
+requests-oauthlib==1.3.0
+rsa==4.7.2
+six @ file:///tmp/build/80754af9/six_1605205335545/work
+starlette==0.13.6
+tensorboard==2.4.1
+tensorboard-plugin-wit==1.8.0
+tensorflow==2.3.1
+tensorflow-estimator==2.3.0
+termcolor==1.1.0
+tornado @ file:///tmp/build/80754af9/tornado_1606942266872/work
+typing-extensions==3.7.4.3
+urllib3==1.26.4
+uvicorn==0.13.4
+Werkzeug==1.0.1
+wrapt==1.12.1
+zipp==3.4.1
